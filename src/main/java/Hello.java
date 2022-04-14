@@ -10,5 +10,6 @@ public class Hello {
         System.out.println("hello-3");
 
         System.out.println("hello-4");
+        System.out.println("hot-fix commit");
     }
 }
